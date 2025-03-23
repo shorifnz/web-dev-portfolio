@@ -126,6 +126,30 @@ main section{
     margin-top: 130px;
     margin-bottom: 130px;
 }
-.skill-description{
-    
+/* resume section styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    text-align: left;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.experience-description , .experience-sub-title{
+    color: #757575;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+}
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-center-resume-download-cv{
+    margin-top: 50px;
 }
